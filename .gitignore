@@ -1,2 +1,8 @@
 .idea/
 .DS_Store
+.pytest_cache
+junit.xml
+.coverage
+htmlcov
+data/output
+venv
